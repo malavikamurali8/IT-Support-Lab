@@ -5,7 +5,7 @@ User reported that the application was not responding and became unresponsive.
 
 ## Environment
 - OS: macOS
-- Application: Google Chrome
+- Application: Adobe Acrobat
 
 ## Symptoms
 - Application freeze
