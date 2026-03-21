@@ -1,4 +1,4 @@
-# Incident 1: Application Not Responding
+## Application Not Responding
 
 ## Issue
 User reported that the application was not responding and became unresponsive.
