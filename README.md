@@ -20,11 +20,3 @@ User reported that the application was not responding and became unresponsive.
 
 ## Resolution
 Application was restarted successfully and resumed normal operation.
-
-## Screenshots
-
-### Before Fix
-![Before](../screenshots/app_issue_before.png)
-
-### After Fix
-![After](../screenshots/app_issue_after.png)
